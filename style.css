@@ -40,7 +40,7 @@ body {
   padding: 10px 47px;
   margin: 10px 0 10px 0;
   border: 1px solid hsl(203, 41%, 72%);
-  background-image: url("/Practice Code/Montgage-Repayment/assets/images/money\ sign\ background.png");
+  background-image: url("/images/money/sign/background.png");
   background-repeat: no-repeat;
   background-clip: padding-box;
 }
@@ -51,7 +51,7 @@ body {
   padding: 10px 0;
   margin: 10px 0 10px 0;
   border: 1px solid hsl(203, 41%, 72%);
-  background-image: url("/Practice Code/Montgage-Repayment/assets/images/years\ background.png");
+  background-image: url("/images/years/background.png");
   background-repeat: no-repeat;
   background-clip: padding-box;
   background-position: right;
@@ -63,7 +63,7 @@ body {
   padding: 10px 0;
   margin: 10px 0 10px 0;
   border: 1px solid hsl(203, 41%, 72%);
-  background-image: url("/Practice Code/Montgage-Repayment/assets/images/equal\ background.png");
+  background-image: url("/images/equal/background.png");
   background-repeat: no-repeat;
   background-clip: padding-box;
   background-position: right;
@@ -100,7 +100,7 @@ input[type="button"] {
   max-width: 1000px;
   padding: 8px 0;
   margin: 20px 0 10px 0;
-  background-image: url("/Practice Code/Montgage-Repayment/assets/images/icon-calculator.svg");
+  background-image: url("/images/icon-calculator.svg");
   background-repeat: no-repeat;
   background-position: 28%;
 }
