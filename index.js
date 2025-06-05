@@ -34,18 +34,18 @@ submitBtn.addEventListener("click", () => {
 function functionChanger() {
   inputFunct(
     mortgageInput,
-    "'/Practice Code/Montgage-Repayment/assets/images/red/red money sign background.png'",
-    "'/Practice Code/Montgage-Repayment/assets/images/money sign background.png'"
+    "'/images/red/red money sign background.png'",
+    "'/images/money sign background.png'"
   );
   inputFunct(
     termInput,
-    "'/Practice Code/Montgage-Repayment/assets/images/red/red years background.png'",
-    "'/Practice Code/Montgage-Repayment/assets/images/years background.png'"
+    "'/images/red/red years background.png'",
+    "'/images/years background.png'"
   );
   inputFunct(
     rateInput,
-    "'/Practice Code/Montgage-Repayment/assets/images/red/red equal background.png'",
-    "'/Practice Code/Montgage-Repayment/assets/images/equal background.png'"
+    "'/images/red/red equal background.png'",
+    "'/images/equal background.png'"
   );
 }
 
