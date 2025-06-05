@@ -33,14 +33,13 @@ body {
   gap: 10px;
   margin: 35px 0 20px 0;
 }
-
 .amount input[type="text"] {
   width: 90vw;
   max-width: 1000px;
   padding: 10px 47px;
   margin: 10px 0 10px 0;
   border: 1px solid hsl(203, 41%, 72%);
-  background-image: url("./images/money\sign\background.png");
+  background-image: url("/images/money\ sign\ background.png");
   background-repeat: no-repeat;
   background-clip: padding-box;
 }
@@ -51,7 +50,7 @@ body {
   padding: 10px 0;
   margin: 10px 0 10px 0;
   border: 1px solid hsl(203, 41%, 72%);
-  background-image: url("./images/years\background.png");
+  background-image: url("/images/years\ background.png");
   background-repeat: no-repeat;
   background-clip: padding-box;
   background-position: right;
@@ -63,7 +62,7 @@ body {
   padding: 10px 0;
   margin: 10px 0 10px 0;
   border: 1px solid hsl(203, 41%, 72%);
-  background-image: url("./images/equal\background.png");
+  background-image: url("/images/equal\ background.png");
   background-repeat: no-repeat;
   background-clip: padding-box;
   background-position: right;
